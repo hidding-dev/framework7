@@ -7,6 +7,9 @@
 </p>
 
 <h1 align="center">Framework7</h1>
+<p align="center">
+<a href="https://hidding-dev.github.io/framework7/kitchen-sink/core/index.html" target="_blank" rel="noopener noreferrer">This Github demo</a>
+</p>
 
 <p align="center">Full Featured Mobile HTML Framework For Building iOS & Android Apps</p>
 
